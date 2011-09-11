@@ -9,7 +9,9 @@ namespace HelloKikki
     {
         static void Main(string[] args)
         {
+            // The following line prints a message
             Console.WriteLine("Hello Kikki");
+            // The following line reads a key
             Console.ReadKey();
         }
     }
