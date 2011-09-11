@@ -10,6 +10,7 @@ namespace HelloKikki
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Kikki");
+            Console.ReadKey();
         }
     }
 }
